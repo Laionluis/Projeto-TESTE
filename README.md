@@ -1,5 +1,3 @@
-# Projeto_Esparta
-Projeto para estágio na Esparta.
 
 Projeto feito no Android Studio.
 
